@@ -1,11 +1,3 @@
-_如有错误或建议，请在评论区指出或email：liyuguo@my.swjtu.edu.cn_
-
-_**最后一次更新时间：2024年1月26日**_
-
-_**点击链接跳转**_[_**https://www.yuque.com/white-f5mnu/qhi4bs/bg0n2yptlfotsg7t#ilTVi**_](#ilTVi)
-
----
-
 ## eccDNA鉴定
 Circle-Map是一款用于全基因组测序，尤其是环状DNA富集测序（Circle-Seq）中的eccDNA的识别。识别流程如下：
 
